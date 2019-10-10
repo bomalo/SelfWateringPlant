@@ -149,7 +149,7 @@
   0b0000000, // 126 '~'  NO DISPLAY
   0b0000000, // 127 'DEL'  NO DISPLAY
 */
-
+//this library can be found here https://github.com/sparkfun/SevSeg.git
 #include "SevSeg.h"
 
 //Create an instance of the object.
